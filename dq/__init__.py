@@ -1,1 +1,1 @@
-from dq import query, compiled
+from .dataquery import query, compiled
